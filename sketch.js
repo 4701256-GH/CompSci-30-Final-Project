@@ -1,4 +1,4 @@
-// Spex - The digtle life asistent living on your computer
+// 
 // Treyden Lee Styles 
 // 11/24/2025 
 //
